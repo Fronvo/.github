@@ -1,1 +1,1 @@
-<img src='https://raw.githubusercontent.com/Fronvo/.github/main/assets/svgs/banner.svg' alt='Fronvo banner'>
+![fronvo-banner](https://github.com/user-attachments/assets/904d3762-cd36-4638-8159-4b4d0670b60c)
